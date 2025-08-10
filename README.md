@@ -17,7 +17,7 @@
 [Enlace a Canva](https://www.canva.com)
 
 ## Imagen:
-![Logo de Supabase](Grupo-2-Gimnasio-o-Club-Deportivo/Archivos/Supabase.jpg)
+![Logo de Supabase](Archivos/Supabase.jpg)
 
 ## Bloque de Código:
 ```python 
